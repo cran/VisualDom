@@ -1,0 +1,14 @@
+c8d97ac96330fd0ff1c3d3ed452f5454 *DESCRIPTION
+74b4a6f8d31e4dbae973edfad43cce1f *NAMESPACE
+17898f132f902d37464cf1a5dd6c624f *R/fun_estim_WLMC.R
+4cc4e86e07ade1253ec9ea3d30714bf5 *R/fun_plot_dominant_WLMC.R
+5ba72df81c4b2c0e97c4967d94cd0d37 *R/fun_plot_estim_WLMC.R
+8e7f949a3d49726f573c63ee738af217 *build/partial.rdb
+f29eadfdeb3cb0558093d5e6004ec7de *data/rdata_Lorenz.rda
+65fa4b7c0b5ab45cdfe5b3367044fff1 *data/rdata_climate.rda
+74adda67d18f51514406a2d5df87290e *man/VisualDom-package.Rd
+354f3d406a70fe165070b1d1a7898aeb *man/man_estim_WLMC.Rd
+a657209cdd932ff8fb010d0e02adebb7 *man/man_plot_dominant_WLMC.Rd
+47f21d934b3e722e50adca6901d7d17b *man/man_plot_estim_WLMC.Rd
+1152b6883cb56b967aeadfa04a7e4cc9 *man/rdata_Lorenz.Rd
+eee9f672d8a98a197b3f9856149c7682 *man/rdata_climate.Rd
